@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happymango/static/css/main.09686ec4.css",
+    "main.js": "/happymango/static/js/main.5ed45561.js",
+    "static/js/787.bae1e72d.chunk.js": "/happymango/static/js/787.bae1e72d.chunk.js",
+    "index.html": "/happymango/index.html",
+    "main.09686ec4.css.map": "/happymango/static/css/main.09686ec4.css.map",
+    "main.5ed45561.js.map": "/happymango/static/js/main.5ed45561.js.map",
+    "787.bae1e72d.chunk.js.map": "/happymango/static/js/787.bae1e72d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09686ec4.css",
+    "static/js/main.5ed45561.js"
+  ]
+}
